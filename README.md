@@ -220,7 +220,7 @@ docker load -i app.tar
 ```
 
 ### Multi-stage Builds, Swarm, Kubernetes
-> For large-scale production, consider multi-stage builds and orchestration tools like Kubernetes or Docker Swarm.
+> For large-scale production, consider multi-stage builds and orchestration tools like Kubernetes maybe also Docker Swarm.
 
 ---
 
